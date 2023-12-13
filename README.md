@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: She/her/hers
 - 🔭 I’m currently working on: A game-ified learning app for heritage languages, and a marketing site for an indie PC game!
-- 🌱 I’m currently learning: Next.js, Tailwind, and Python
+- 🌱 I’m currently learning: Next.js, AWS, and Python
 - 🎨 Check out my portfolio <a href="https://www.suraya.xyz/">here</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/suraya-clemens/">LinkedIn </a>or surayaclemens@gmail.com
 
